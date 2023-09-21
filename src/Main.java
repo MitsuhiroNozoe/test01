@@ -7,5 +7,6 @@ public class Main {
 		Item i2 = new Item("オレンジジュース", 150);
 		i1.display();
 		i2.display();
+		System.out.println("test01");
 		} 
 }
